@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+    xmlns:msxsl="urn:schemas-microsoft-com:xslt" exclude-result-prefixes="msxsl"
+>
+    <xsl:output method="html" indent="yes"/>
+
+    <xsl:template match="dangkynghi">
+		<html>
+			<body>
+				<h1>DANH SÁCH ĐĂNG KÝ NGHỈ</h1>
+				<xsl:for-each select="ngaylamviec">
+					<p >
+						Ngày làm việc: <xsl:value-of select="@ngay"/>
+					</p>
+					<table border="1 solid">
+						<tr style="background:green">
+							<th>STT</th>
+							<th>Mã NV</th>
+							<th>Lý do</th>
+							<th>Đơn vị</th>
+							<th>Trạng Thái</th>
+						</tr>
+						<xsl:for-each select="nhanvien">
+							<tr>
+								<td>
+									<xsl:value-of select="position()"/>
+								</td>
+								<td>
+									<xsl:value-of select="@manv"/>
+								</td>
+								<td>
+									<xsl:value-of select="lydo"/>
+								</td>
+								<td>
+									<xsl:value-of select="donvi"/>
+								</td>
+								<xsl:if test="trangthai = 'Chờ phê duyệt'">
+									<td style="background:yellow">
+										<xsl:value-of select="trangthai"/>
+									</td>	
+								</xsl:if>
+								<xsl:if test="trangthai != 'Chờ phê duyệt'">
+									<td >
+										<xsl:value-of select="trangthai"/>
+									</td>
+								</xsl:if>
+							</tr>
+						</xsl:for-each>
+					</table>
+				</xsl:for-each>
+			</body>
+		</html>
+    </xsl:template>
+</xsl:stylesheet>

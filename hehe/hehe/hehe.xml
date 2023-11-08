@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ds>
+	<nhanvien manv="nv01">
+		<hoten>Kều Đức Em</hoten>
+		<diachi>Thạch Thất, Hà Nội</diachi>
+	</nhanvien>
+	<nhanvien manv="nv02">
+		<hoten>Kều Đức Em</hoten>
+		<diachi>Thạch Thất, Hà Nội</diachi>
+	</nhanvien>
+	<nhanvien manv="nv03">
+		<hoten>Kều Đức Em</hoten>
+		<diachi>Thạch Thất, Hà Nội</diachi>
+	</nhanvien>
+	<nhanvien manv="nv04">
+		<hoten>Kều Đức Em</hoten>
+		<diachi>Thạch Thất, Hà Nội</diachi>
+	</nhanvien>
+</ds>

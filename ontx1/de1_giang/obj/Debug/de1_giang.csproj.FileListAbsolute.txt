@@ -1,0 +1,10 @@
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\ontx1\de1_giang\bin\Debug\de1_giang.exe.config
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\ontx1\de1_giang\bin\Debug\de1_giang.exe
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\ontx1\de1_giang\bin\Debug\de1_giang.pdb
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\ontx1\de1_giang\obj\Debug\de1_giang.csproj.AssemblyReference.cache
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\ontx1\de1_giang\obj\Debug\de1_giang.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\ontx1\de1_giang\obj\Debug\de1_giang.Properties.Resources.resources
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\ontx1\de1_giang\obj\Debug\de1_giang.csproj.GenerateResource.cache
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\ontx1\de1_giang\obj\Debug\de1_giang.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\ontx1\de1_giang\obj\Debug\de1_giang.exe
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\ontx1\de1_giang\obj\Debug\de1_giang.pdb

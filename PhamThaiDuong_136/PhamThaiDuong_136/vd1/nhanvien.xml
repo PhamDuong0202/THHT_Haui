@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ds>
+  <nhanvien manv="nv02">
+    <hoten>Dương</hoten>
+    <diachi>Dương</diachi>
+  </nhanvien>
+  <nhanvien manv="nv03">
+    <hoten>Lê Văn Duẩn</hoten>
+    <diachi>27 Hàng Trống, Hà Nội</diachi>
+  </nhanvien>
+  <nhanvien manv="nv04">
+    <hoten>Tô Vĩnh Diệm</hoten>
+    <diachi>27 Hàng Than, Hà Nội</diachi>
+  </nhanvien>
+  <nhanvien manv="nv05">
+    <hoten>em Dương</hoten>
+    <diachi>Hải Dương</diachi>
+  </nhanvien>
+</ds>

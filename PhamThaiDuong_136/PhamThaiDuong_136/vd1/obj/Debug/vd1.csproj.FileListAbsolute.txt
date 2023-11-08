@@ -1,0 +1,21 @@
+D:\PhamThaiDuong_136\vd1\bin\Debug\vd1.exe.config
+D:\PhamThaiDuong_136\vd1\bin\Debug\vd1.exe
+D:\PhamThaiDuong_136\vd1\bin\Debug\vd1.pdb
+D:\PhamThaiDuong_136\vd1\obj\Debug\vd1.csproj.AssemblyReference.cache
+D:\PhamThaiDuong_136\vd1\obj\Debug\vd1.Form_NV.resources
+D:\PhamThaiDuong_136\vd1\obj\Debug\vd1.Properties.Resources.resources
+D:\PhamThaiDuong_136\vd1\obj\Debug\vd1.csproj.GenerateResource.cache
+D:\PhamThaiDuong_136\vd1\obj\Debug\vd1.csproj.CoreCompileInputs.cache
+D:\PhamThaiDuong_136\vd1\obj\Debug\vd1.exe
+D:\PhamThaiDuong_136\vd1\obj\Debug\vd1.pdb
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\PhamThaiDuong_136\PhamThaiDuong_136\vd1\bin\Debug\vd1.exe.config
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\PhamThaiDuong_136\PhamThaiDuong_136\vd1\bin\Debug\vd1.exe
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\PhamThaiDuong_136\PhamThaiDuong_136\vd1\bin\Debug\vd1.pdb
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\PhamThaiDuong_136\PhamThaiDuong_136\vd1\obj\Debug\vd1.csproj.AssemblyReference.cache
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\PhamThaiDuong_136\PhamThaiDuong_136\vd1\obj\Debug\vd1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\PhamThaiDuong_136\PhamThaiDuong_136\vd1\obj\Debug\vd1.Form_NV.resources
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\PhamThaiDuong_136\PhamThaiDuong_136\vd1\obj\Debug\vd1.Properties.Resources.resources
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\PhamThaiDuong_136\PhamThaiDuong_136\vd1\obj\Debug\vd1.csproj.GenerateResource.cache
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\PhamThaiDuong_136\PhamThaiDuong_136\vd1\obj\Debug\vd1.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\PhamThaiDuong_136\PhamThaiDuong_136\vd1\obj\Debug\vd1.exe
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\PhamThaiDuong_136\PhamThaiDuong_136\vd1\obj\Debug\vd1.pdb

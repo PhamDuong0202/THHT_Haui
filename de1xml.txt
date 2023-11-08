@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="de1.xslt"?>
+<BVDK>
+	<Khoa MaKhoa="K01d" TenKhoa="Ngoại">
+		<Phong>302</Phong>
+		<BenhNhan MasoBN="bn01" HoTen="Nguyễn Thành Lâm">
+			<GioiTinh>Nam</GioiTinh>
+			<ThoiGian>
+				<NgayNhapVien>2023-02-19</NgayNhapVien>
+				<NgayDieuTri>10</NgayDieuTri>
+			</ThoiGian>
+			<DiaChi>Hà Nội</DiaChi>
+			<SDT>0781375914</SDT>
+		</BenhNhan>
+		<BenhNhan MasoBN="bn21" HoTen="Nguyễn Thành Lâm">
+			<GioiTinh>Nam</GioiTinh>
+			<ThoiGian>
+				<NgayNhapVien>2023-02-19</NgayNhapVien>
+				<NgayDieuTri>10</NgayDieuTri>
+			</ThoiGian>
+			<DiaChi>Hà Nội</DiaChi>
+			<SDT>0781375914</SDT>
+		</BenhNhan>
+	</Khoa>
+	<Khoa MaKhoa="K01" TenKhoa="Ngoại">
+		<Phong>302</Phong>
+		<BenhNhan MasoBN="bn03" HoTen="Nguyễn Thành Lâm">
+			<GioiTinh>Nam</GioiTinh>
+			<ThoiGian>
+				<NgayNhapVien>2023-02-19</NgayNhapVien>
+				<NgayDieuTri>10</NgayDieuTri>
+			</ThoiGian>
+			<DiaChi>Hà Nội</DiaChi>
+			<SDT>0781375914</SDT>
+		</BenhNhan>
+		<BenhNhan MasoBN="bn23" HoTen="Nguyễn Thành Lâm">
+			<GioiTinh>Nam</GioiTinh>
+			<ThoiGian>
+				<NgayNhapVien>2023-02-19</NgayNhapVien>
+				<NgayDieuTri>10</NgayDieuTri>
+			</ThoiGian>
+			<DiaChi>Hà Nội</DiaChi>
+			<SDT>0781375914</SDT>
+		</BenhNhan>
+	</Khoa>
+</BVDK>

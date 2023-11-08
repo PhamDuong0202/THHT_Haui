@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="Danhsachdangkynghi.xslt"?>
+<dangkynghi>
+	<ngaylamviec ngay="2023-10-23">
+		<nhanvien manv="HN001">
+			<lydo>P</lydo>
+			<donvi>0.5</donvi>
+			<trangthai>Chờ phê duyệt</trangthai>
+		</nhanvien>
+		<nhanvien manv="HN002">
+			<lydo>P</lydo>
+			<donvi>0.5</donvi>
+			<trangthai>Không được phê duyệt</trangthai>
+		</nhanvien>
+		<nhanvien manv="HN003">
+			<lydo>P</lydo>
+			<donvi>0.5</donvi>
+			<trangthai>Đã phê duyệt</trangthai>
+		</nhanvien>
+	</ngaylamviec>
+	<ngaylamviec ngay="2023-10-24">
+		<nhanvien manv="HN004">
+			<lydo>P</lydo>
+			<donvi>0.5</donvi>
+			<trangthai>Chờ phê duyệt</trangthai>
+		</nhanvien>
+		<nhanvien manv="HN005">
+			<lydo>P</lydo>
+			<donvi>0.5</donvi>
+			<trangthai>Đã phê duyệt</trangthai>
+		</nhanvien>
+		<nhanvien manv="HN006">
+			<lydo>P</lydo>
+			<donvi>0.5</donvi>
+			<trangthai>Không được phê duyệt</trangthai>
+		</nhanvien>
+	</ngaylamviec>
+</dangkynghi>
